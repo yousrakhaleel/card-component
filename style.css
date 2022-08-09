@@ -7,6 +7,9 @@
 --paragraph-color:hsl(228, 12%, 48%);
 --component-color:hsl(158, 36%, 37%);
 }
+main{
+    width: 100%;
+}
 body{
     background-color: hsl(30, 38%, 92%);
     width: 100%;
