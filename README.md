@@ -11,7 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- 
 
 ## Overview
 
@@ -23,8 +22,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
-![profile-card](https://user-images.githubusercontent.com/34186810/184534406-6e32212d-6f21-43de-91d6-baa0b13dc32d.PNG)
+![card](https://user-images.githubusercontent.com/34186810/184535385-81ca8ad2-d2ba-4a63-b67d-6250313b895f.PNG)
 
 
 ### Links
