@@ -27,7 +27,7 @@ body{
     display: flex;
 }
 .image-left{
-background-image: url(images/image-product-desktop.jpg);
+background-image: url(./images/image-product-desktop.jpg);
 background-position: center;
 background-size: cover;
 width: 50%;
