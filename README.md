@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://yousrakhaleel.github.io/profile-card/ 
+- Live Site URL: https://yousrakhaleel.github.io/card-component/
 
 ## My process
 
