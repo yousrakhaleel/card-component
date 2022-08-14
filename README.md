@@ -10,13 +10,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- 
 
 ## Overview
 
@@ -28,21 +23,21 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-![التقاط](https://user-images.githubusercontent.com/34186810/183784687-47382ddc-8e67-4877-b923-05ca5be15e02.PNG)
+
+![profile-card](https://user-images.githubusercontent.com/34186810/184534406-6e32212d-6f21-43de-91d6-baa0b13dc32d.PNG)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://yousrakhaleel.github.io/profile-card/ 
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS
 - Flexbox
-- Mobile-first workflow
 
 ## Author
 
